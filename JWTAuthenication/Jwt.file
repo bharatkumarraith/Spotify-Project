@@ -1,0 +1,8 @@
+
+http://localhost:8083/user1/user
+     {
+     "email": "gangadhar@gmail.com",
+     "password":"Gang@123",
+     "user_name":"gangadhar",
+     "address":"gangadhar"
+     }

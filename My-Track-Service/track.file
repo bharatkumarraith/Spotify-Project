@@ -1,0 +1,30 @@
+
+
+
+http://localhost:8088/api/v2/saveDetails
+{
+    {
+               "email": "Admin994@gmail.com",
+               "password": " Krishna994@gmail",
+               "user_name": "Krishna",
+               "address": "Andhra",
+"playlistDetails":[
+          {
+             "PlaylistName" : "vamsiRockStar",
+             "PlaylistId" :115
+
+         }
+    ]
+}
+
+http://localhost:8088/api/v2/addTrackside
+{
+    "playlistName" : "gang",
+     "playlistId" :  1001,
+     "trackDetails" : [ {
+     "trackName" : "godgift",
+     "artistName" : "sita",
+     "genres" : "female"
+     }]
+}
+
